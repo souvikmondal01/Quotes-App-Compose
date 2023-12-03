@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.QuotesApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:colorBackground">@android:color/background_light</item>
+        <item name="android:colorPrimaryDark">@android:color/background_light</item>
+
+    </style>
+</resources>
